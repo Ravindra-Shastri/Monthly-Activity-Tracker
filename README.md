@@ -1,6 +1,6 @@
 <h1> Monthly-Activity-Tracker App</h1>
 
-<!-- ## [Live Demo](https://quiz-app-chi-one.vercel.app/) -->
+## [Live Demo](https://monthly-activity-tracker.vercel.app/)
 
 This is a Monthly-Activity-Tracker App.
 
